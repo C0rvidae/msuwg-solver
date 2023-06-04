@@ -1,0 +1,7 @@
+1. Window detection
+2. Letter detection
+3. Amount of words asked + length
+4. Generate dict
+5. Clicking program
+
+c.save(rf'C:\Users\<user>\Pictures\mswug\image{random.randint(1000, 10000)}.png')
